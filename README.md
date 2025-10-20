@@ -1,4 +1,4 @@
-# Deltaton Feed Python Client
+# Deltaton Feeding Library for Python
 This is a Python client for the Deltaton Feed API. It allows you to connect to the Deltaton websocket and emit data to the Deltaton platform.
 
 ## Authentication
@@ -15,7 +15,7 @@ Yhis is a drop in and use client. Here are steps to get started:
 4. Use the methods to emit data to the Deltaton platform.
 
 ## Example
-See the example.py file for a complete example.
+See the [example.py](https://github.com/deltaton-labs/deltaton_feed_py/blob/main/example.py) file for a complete example.
 
 ## Methods
 The client has the following methods:
