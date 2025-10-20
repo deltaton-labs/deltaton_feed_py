@@ -19,11 +19,12 @@ See the [example.py](https://github.com/deltaton-labs/deltaton_feed_py/blob/main
 
 ## Methods
 The client has the following methods:
-- connect()
-- disconnect()
-- emit_bee(data: Dict[str, Any], callback: Optional[Callable] = None)
-- emit_fruitgrowing(data: Dict[str, Any], callback: Optional[Callable] = None)
-- emit_general(data: Dict[str, Any], callback: Optional[Callable] = None)
-- emit_greenhouse(data: Dict[str, Any], callback: Optional[Callable] = None)
-- emit_irrigationfertilization(data: Dict[str, Any], callback: Optional[Callable] = None)
-- emit_plantprotection(data: Dict[str, Any], callback: Optional[Callable] = None)
+- `connect()`
+- `disconnect()`
+- `emit_bee(data: Dict[str, Any], callback: Optional[Callable] = None)`
+- `emit_fruitgrowing(data: Dict[str, Any], callback: Optional[Callable] = None)`
+- `emit_general(data: Dict[str, Any], callback: Optional[Callable] = None)`
+- `emit_greenhouse(data: Dict[str, Any], callback: Optional[Callable] = None)`
+- `emit_irrigationfertilization(data: Dict[str, Any], callback: Optional[Callable] = None)`
+- `emit_plantprotection(data: Dict[str, Any], callback: Optional[Callable] = None)`
+- `emit_viticulture(data: Dict[str, Any], callback: Optional[Callable] = None)`
